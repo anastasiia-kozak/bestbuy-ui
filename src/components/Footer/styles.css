@@ -1,0 +1,18 @@
+.created-by{
+    text-align: center;
+    font-size: 28px;
+    background: linear-gradient(to right, #4c35ff -66%, #ca662b 143% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+    font-weight: 700;
+}
+
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 36px 0;
+    font-size: 22px;
+}
