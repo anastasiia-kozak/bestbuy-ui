@@ -150,7 +150,7 @@ function checkWinner(board) {
 }
 
 function saveWinner(winner, player) {
-  fetch('http://localhost:3001/leaderboard', {
+  fetch('http://34.216.230.240:3001/leaderboard', {
     method: 'post',
     headers: {
       'Content-Type': 'application/json'

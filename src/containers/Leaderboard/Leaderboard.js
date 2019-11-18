@@ -13,7 +13,7 @@ class Leaderboard extends React.Component {
   }
 
   fetchFromApi() {
-    fetch('http://localhost:3001/leaderboard')
+    fetch('http://34.216.230.240:3001/leaderboard')
       .then(response => response.json())
       .then((leaderboard) => {
         leaderboard = leaderboard.sort((a, b) => {
