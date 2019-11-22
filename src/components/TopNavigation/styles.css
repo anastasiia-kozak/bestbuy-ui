@@ -7,6 +7,7 @@ li {
     padding: 0 20px
 }
 
+
 a{
     font-size: 40px;
     font-weight: 700;
@@ -16,8 +17,6 @@ a{
     display: block;
     cursor: pointer;
 }
-
-
 
 
 a:before, a:after {
@@ -54,5 +53,17 @@ a:hover:after {
     transition: 0s;
 }
 
+
+
+@media screen and (max-width: 375px) {
+   ul{
+       margin-top: 15px;
+       margin-bottom: 0;
+       padding: 15px;
+   }
+    a{
+        font-size: 25px;
+    }
+}
 
 

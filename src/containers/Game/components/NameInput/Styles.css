@@ -13,3 +13,19 @@ input {
 h5{
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 375px) {
+    h5{
+        font-size: 18px;
+        margin: 20px 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    input{
+        margin-bottom: 15px;
+    }
+}
+
+

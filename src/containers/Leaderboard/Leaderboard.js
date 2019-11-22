@@ -36,7 +36,7 @@ class Leaderboard extends React.Component {
   }
 
   render() {
-    return (<div>
+    return (<div >
       <h1 className={"pb-2"}>Winner table</h1>
       <table >
         <thead>

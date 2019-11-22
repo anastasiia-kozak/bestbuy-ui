@@ -23,7 +23,7 @@ function App() {
           <Leaderboard />
         </Route>
         <Route path="/">
-          <h1>Please make your selection</h1>
+          <Game />
         </Route>
       </Switch>
       <Footer/>
