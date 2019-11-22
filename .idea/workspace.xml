@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a935cbdc-9588-432d-8a6f-60f8ef092847" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/styles.css" afterPath="$PROJECT_DIR$/src/components/Footer/styles.css" />
-      <change beforePath="$PROJECT_DIR$/src/components/TopNavigation/styles.css" afterPath="$PROJECT_DIR$/src/components/TopNavigation/styles.css" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App/App.js" afterPath="$PROJECT_DIR$/src/containers/App/App.js" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App/styles.css" afterPath="$PROJECT_DIR$/src/containers/App/styles.css" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Game/components/Board/styles.css" afterPath="$PROJECT_DIR$/src/containers/Game/components/Board/styles.css" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Game/components/NameInput/Styles.css" afterPath="$PROJECT_DIR$/src/containers/Game/components/NameInput/Styles.css" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Leaderboard/Leaderboard.js" afterPath="$PROJECT_DIR$/src/containers/Leaderboard/Leaderboard.js" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Leaderboard/styles.css" afterPath="$PROJECT_DIR$/src/containers/Leaderboard/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -427,12 +419,12 @@
       <updated>1574027066881</updated>
       <workItem from="1574027068329" duration="199000" />
       <workItem from="1574027319034" duration="24555000" />
-      <workItem from="1574287300093" duration="5821000" />
+      <workItem from="1574287300093" duration="6677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30575000" />
+    <option name="totallyTimeSpent" value="31431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
